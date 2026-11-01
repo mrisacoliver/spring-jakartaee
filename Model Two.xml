@@ -1,0 +1,11 @@
+<!-- Exemplo correto para Jakarta Persistence (Hibernate / JPA) -->
+<dependency>
+    <groupId>jakarta.persistence</groupId>
+    <artifactId>jakarta.persistence-api</artifactId>
+</dependency>
+
+<!-- Exemplo correto para Jakarta Validation -->
+<dependency>
+    <groupId>jakarta.validation</groupId>
+    <artifactId>jakarta.validation-api</artifactId>
+</dependency>

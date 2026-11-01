@@ -1,0 +1,7 @@
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    
+    // Se precisar declarar a especificação do Jakarta Bean Validation explicitamente:
+    implementation 'jakarta.validation:jakarta.validation-api'
+}

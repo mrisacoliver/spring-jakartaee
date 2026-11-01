@@ -1,0 +1,10 @@
+<parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>3.2.x</version> <!-- ou versão mais recente do Spring Boot 3 -->
+    <relativePath/>
+</parent>
+
+<properties>
+    <java.version>17</java.version>
+</properties>
